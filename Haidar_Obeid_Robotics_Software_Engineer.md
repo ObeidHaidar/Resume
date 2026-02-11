@@ -29,8 +29,8 @@ C++ • ROS2 • Real-Time Systems • Embedded C • Localization & Sensor Fusi
 
 ### Employment History
 
-#### Robotics Engineer (Technical Lead, AutoPrep) at Universal Field Robots (Acquired by Sandvik)
-*Aug 2022 – Present | Brisbane, Australia*
+#### Senior Robotics Engineer (Technical Lead, AutoPrep) at Universal Field Robots (Acquired by Sandvik)
+*Aug 2022 – Present (Senior since Dec 2025) | Brisbane, Australia*
 
 Led the core software development and technical architecture for the AutoPrep blasthole prepping machine while developing specialized autonomy systems for the Autonomous Load and Haul project on ARM/AMD Linux architectures.
 
